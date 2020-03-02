@@ -4,7 +4,7 @@
    Tutorial 9
    Review Assignment
    Event Timer
-   Author: Aspen Smith
+   Author: jeremiah ruiz
    Date: 1-10-2020  
 */
 showClock();
